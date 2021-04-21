@@ -1,14 +1,14 @@
 ---
 sites:
   website1:
-    name: spincasino.com
+    name: website1.com
     type: php
     bindings:
       - 10.0.0.1
       - 10.0.0.2
       - 10.0.0.3
   website2:
-    name: jackpotcity.com
+    name: website2.com
     type: asp
     bindings:
       - 192.168.1.1
